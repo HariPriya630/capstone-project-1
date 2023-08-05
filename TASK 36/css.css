@@ -1,0 +1,431 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#a{
+	height: 4000px;
+	width: 1347px;
+    background-color: white;
+}
+#b{
+	height:26px ;
+	width:1347px ;
+	background-color: white;
+	padding-top: 4px;
+}
+#c{
+	height:480px ;
+	width: 1307px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background-image: url('images/child.jpg');
+	background-size: cover;
+}
+#m{
+	height: 220px;
+	width: 1307px;
+}
+#o{
+	font-family: cursive ;
+	color: #F2BE22;
+	font-size: 4em;
+}
+#oa{
+	font-family: sans-serif;
+	font-size: 2em;
+}
+#l{
+	height: 200px;
+	width: 500px;
+	border-bottom-right-radius: 25px;
+	border-top-right-radius: 25px;
+	background-color: white;
+
+}
+#n{
+	height: 30px;
+	width: 1307px;
+}
+#d{
+	height:230px ;
+	width: 1307;
+	background-image: url('images/rop.png');
+	background-size: cover;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+#ac{
+	height:40px ;
+	width: 1304px;
+}
+#ad{
+	height: 190px;
+	width: 1307px;
+}
+#ca{
+	height: 190px;
+	width: 200px;
+	float: left;
+}
+#cb{
+	height: 190px;
+	width: 227px;
+	float: left;
+}
+#cc{
+	height: 190px;
+	width: 228px;
+	float: left;
+}
+#cd{
+	height: 190px;
+	width: 228px;
+	float: left;
+}
+#ce{
+	height: 190px;
+	width: 228px;
+	float: left;
+}
+#cf{
+	height: 190px;
+	width: 200px;
+	float: right;
+}
+#zw{
+	height: 90px;
+	width: 150px;
+	border-radius: 50%;
+}
+#e{
+	height:800px ;
+	width: 1304px;
+	background-color: #FFF3E2;
+	margin: 20px;
+}
+#ha{
+	height:40px ;
+	width: 1304px;
+}
+#hy{
+	height:345px ;
+	width: 1304px;
+}
+
+#ya{
+	height: 590px;
+	width: 1104px;
+	float: left;
+	background-color: white;
+	border-left: 90px solid #FFF3E2;
+	border-right: 90px solid #FFF3E2;
+	border-bottom: 40px solid #FFF3E2;
+}
+#ss{
+	height: 285px;
+	width: 1104px;
+	border-bottom: 20px solid #FFF3E2;
+}
+#sa{
+	height: 285px;
+	width: 1104px;
+}
+#am{
+	height: 285px;
+	width: 348px;
+	float: left;
+	border-right: 30px solid #FFF3E2;
+}
+#pm{
+	height: 285px;
+	width: 348px;
+	border-right: 30px solid #FFF3E2;
+	float: left;
+}
+#pc{
+	height:285px;
+	width: 348px;
+	float: right;
+}
+#pd{
+	height:215px;
+	width: 308px;
+	float: right;
+	border-right: 15px solid white;
+	border-left: 25px solid white;
+	border-top: 50px solid white;
+	border-bottom: 20px solid white;
+}
+#bb{
+	height: 150px;
+	width: 150px;
+	border: 2px solid lightgrey;
+	border-radius: 50%;
+}
+#adi{
+	color: #F2BE22;
+}
+#tya{ color: grey; }
+#hea{
+	font-size: 30px;
+}
+#ill{color: #F2BE22}
+#ile{font-size: 40px}
+#f{
+	height: 500px;
+	width: 1104;
+	background-color: grey;
+}
+#raj{
+	height: 60px;
+	width: 1347px;
+	background-color: white;
+}
+#jar{
+	height: 170px;
+	width: 1147px;
+	background-color: white;
+	border-left:100px solid white ;
+	border-right:100px solid white ;
+	border-bottom: 20px solid white;
+}
+#nar{
+	height: 170px;
+	width: 1147px;
+	background-color: white;
+	border-left:100px solid white ;
+	border-right:100px solid white ;
+	border-bottom: 20px solid white;
+}
+#abb{
+	height: 170px;
+	width: 369px;
+	border-right: 20px solid white;
+	float: left;
+}
+#cbb{
+	height: 170px;
+	width: 369px;
+	float: right;
+}
+#gig{
+	height: 30px;
+	width: 100px;
+	background-color: #F2BE22;
+	border-radius: 25px;
+}
+#ran{
+	height: 60px;
+	width: 1347px;
+	background-color: white;
+}
+#g{
+	height: 600px;
+	width: 1307;
+	background-color: white;
+	border: 20px solid white;
+}
+#zaz{
+	height: 200px;
+	width: 1307px;
+	background-color: #F2BE22;
+}
+#zat{
+	height: 400px;
+	width: 1304px;
+	background-image: url('images/rop.png');
+	background-size: cover;
+}
+#zaf{
+	background-color: white;
+	border-radius: 25px;
+	height: 30px;
+	width: 100px;
+}
+#ww{
+	height: 400px;
+	width: 200px;
+	float: left;
+}
+#wg{
+	height: 400px;
+	width: 200px;
+	float: right;
+}
+#yy{
+	height: 390px;
+	width: 824px;
+	border-left:20px solid white ;
+	border-right:20px solid white ;
+	border-bottom: 5px solid white;
+	border-top: 5px solid white;
+	float: left;
+}
+#yp{
+	height: 390px;
+	width: 402px;
+	float: left;
+}
+#yx{
+	height: 390px;
+	width: 20px;
+	float: left;
+}
+#yz{
+	height: 390px;
+	width: 402px;
+	float: right;
+}
+#1{
+	height: 100px;
+	width: 100px;
+	border-radius: 25%;
+}
+#yum{
+	height: 185px;
+	width: 402px;
+}
+#yun{
+	height: 20px;
+	width: 402px;
+}
+#h{
+	height: 550px;
+	width: 1307;
+	background-color: #FFF3E2;
+	border-left: 20px solid white;
+	border-right: 20px solid white;
+}
+#sui{
+	height: 70px;
+	width: 1307;
+}
+#siu{
+	height: 220px;
+	width: 1307;
+}
+#nob{
+	height: 220px;
+	width: 53px;
+	float: left;
+}
+#bon{
+	height: 220px;
+	width: 54px;
+	float: right;
+}
+#jia{height: 220px;
+	width: 387px;
+	float: left;
+	background-color: white;
+}
+#jiy{height: 220px;
+	width: 386px;
+	float: left;
+	background-color: white;
+}
+#sun{height: 220px;
+	width: 20px;
+float: left;}
+#uis{
+	height: 220px;
+	width: 1307px;
+}
+#no{
+	height: 20px;
+	width: 1307px;
+}
+#har{
+	text-align: justify;
+}
+#nop{
+	height: 200px;
+	width: 367px;
+	border: 10px solid white;
+}
+#jai{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+}
+#mah{
+	color: lightgrey;
+	font-size: 10px;
+}
+#hum{
+	height: 1px;
+	background-color: #F2BE22;}
+#i{
+	height:300px ;
+	width: 1107px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+	border-left: 20px solid white;
+	background-color: #F2BE22;
+	border-right: 20px solid white;
+}
+#gee{
+	height: 300px;
+	width: 553px;
+	float: left;
+	background-color: #F2BE22;
+}
+#gae{
+	height: 300px;
+	width: 554px;
+	float: right;
+	background-color: #F2BE22;
+}
+#man{color: white;
+	font-size: 3em;
+	font-family: sans-serif;
+}
+#j{
+	height: 600px;
+	width: 1307px;
+	border-left: 20px solid white;
+    border-right: 20px solid white;
+	background-image:url('images/hap.jpg') ;
+	background-size: cover;
+}
+#api{
+	height: 250px;
+	width: 1307px;
+}
+#apx{
+	height: 250px;
+	width: 1307px;
+}
+#zry{height: 250px;
+	width: 500px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	background-color: white;
+	margin-left: 10px;
+}
+#xry{height: 250px;
+	width: 440px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	background-color: white;
+	margin-left: 40px;
+	margin-right: 20px;
+}
+#jj{font-size: 20px}
+#hij{
+	height:30px ;
+	width: 350px;
+	background-color: whitesmoke;
+	color: lightgrey;
+	border-radius: 25px;
+}
+#fr{
+	height:30px ;
+	width: 80px;
+	background-color:  #F2BE22;
+	border-radius: 25px;
+}
